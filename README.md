@@ -11,12 +11,10 @@ Unlike traditional pathfinding (Dijkstra/A*), this agent learns the environment 
 **1. The Learned Path (18 Steps - Mathematical Optimum)**
 The agent successfully navigated around the "Macro Block" (obstacle) to connect the Source (Green) to the Target (Red) with zero slack.
 
-![Final Path Result](result_path.png)
 
 **2. The "Brain" (Q-Table Heatmap)**
 Visualization of the Q-Values. Brighter areas represent high-confidence paths learned by the agent.
 
-![Heatmap Visualization](heatmap.png)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
